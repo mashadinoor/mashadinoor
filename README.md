@@ -45,14 +45,17 @@ I'm a Data Analyst and Web Developer passionate about building clean, functional
 
 ---
 
+ 
 ## 📊 GitHub Stats
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashadinoor&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashadinoor&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=mashadinoor&theme=default&hide_border=true" height="150"/>
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mashadinoor&theme=default" />
+</p>
 ---
+
 
 <!---
 mashadinoor/mashadinoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
