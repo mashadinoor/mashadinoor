@@ -54,7 +54,6 @@ I'm a Data Analyst and Web Developer passionate about building clean, functional
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mashadinoor&theme=default" />
 </p>
----
 
 
 <!---
